@@ -1,3 +1,3 @@
-# My-Coding-Temple-Ship-Log
+# my-coding-temple-ship-log
 
 Author: Matthew Gladkowski
