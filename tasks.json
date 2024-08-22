@@ -1,0 +1,15 @@
+{
+    "version": "2.0.0",
+    "tasks": [
+        {
+            "label": "Run Python Script",
+            "type": "shell",
+            "command": "cls && python -u c:\\Users\\mglad\\my-coding-temple-ship-log\\adventure_log.py",
+            "problemMatcher": [],
+            "group": {
+                "kind": "build",
+                "isDefault": true
+            }
+        }
+    ]
+}
