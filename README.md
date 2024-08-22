@@ -2,4 +2,4 @@
 
 Author: Matthew Gladkowski
 
-url: https://www.codingtemple.com
+URL: https://www.codingtemple.com
