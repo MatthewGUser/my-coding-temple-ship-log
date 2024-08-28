@@ -1,1 +1,1 @@
-This is my new navigation methods filec
+This is my new navigation methods file
